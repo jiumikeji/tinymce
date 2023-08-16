@@ -1,0 +1,32 @@
+{
+	"name": "tinymce",
+	"version": "6.6.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jiumikeji/tinymce.git",
+		"directory": "modules/tinymce"
+	},
+	"description": "河北九米电子科技-tinymce富文本",
+	"author": "河北九米电子科技",
+	"main": "tinymce.js",
+	"types": "tinymce.d.ts",
+	"license": "MIT",
+	"keywords": [
+		"wysiwyg",
+		"tinymce",
+		"richtext",
+		"javascript",
+		"html",
+		"text",
+		"rich editor",
+		"rich text editor",
+		"rte",
+		"rich text",
+		"contenteditable",
+		"editing"
+	],
+	"homepage": "https://www.tiny.cloud/",
+	"bugs": {
+		"url": "https://github.com/tinymce/tinymce/issues"
+	}
+}
